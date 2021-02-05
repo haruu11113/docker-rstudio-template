@@ -1,5 +1,7 @@
 ローカル Docker RStudio Server プロジェクトのテンプレート
 ==================================================
+こちらを用いて作成させていただきました。自分用にカスタマイズしています。
+https://github.com/terashim/rstudio-docker-project-template
 
 ## 前提条件
 

@@ -1,5 +1,7 @@
 Local Docker RStudio Server Project Template
 ==================================================
+こちらを用いて作成させていただきました。自分用にカスタマイズしています。
+https://github.com/terashim/rstudio-docker-project-template
 
 ## Prerequisites
 
