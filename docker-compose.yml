@@ -1,0 +1,13 @@
+version: "3.7"
+services:
+  rstudio:
+    image: your-project-name:latest
+    build:
+      context: _rstudio
+    ports:
+      - "8787:8787"
+    environment:
+      - PASSWORD=password
+      - DISABLE_AUTH=true
+    volumes:
+      - ./work:/home/rstudio/project
